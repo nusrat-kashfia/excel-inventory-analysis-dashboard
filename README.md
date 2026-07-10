@@ -85,14 +85,14 @@ inventory-analysis-excel-dashboard/
 │   └── Inventory_Analysis_Dashboard.pdf
 │
 ├── screenshots/
-│   ├── dashboard.png
-│   ├── sales_by_category.png
-│   ├── sales_by_warehouse.png
-│   ├── monthly_sales.png
-│   ├── inventory_value.png
-│   ├── supplier_analysis.png
+│   ├── Dashboard.png
+│   ├── Sales_by_category.png
+│   ├── Sales_by_warehouse.png
+│   ├── Monthly_Sales_Tred.png
+│   ├── Inventory_value_by_Category.png
+│   ├── Supplier_Spend.png
 │   ├── stock_status.png
-│   └── slicers.png
+│   └── Slicer.png
 │
 └── docs/
     └── business_recommendations.md
@@ -185,37 +185,45 @@ Users can filter the dashboard by:
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashbborad](screenshots/Dashbborad.png)
 
 ---
 
 ## Sales by Category
 
-![Sales by Category](screenshots/sales_by_category.png)
+![Sales by Category](screenshots/Sales_by_category.png)
 
 ---
 
 ## Monthly Sales Trend
 
-![Monthly Sales](screenshots/monthly_sales.png)
+![Monthly_Sales_Trend](screenshots/Mothly_Sales_Tred.png)
 
 ---
 
 ## Inventory Value by Category
 
-![Inventory Value](screenshots/inventory_value.png)
+![Inventory Value](screenshots/Invetory_Value_By_Category.png)
 
 ---
 
 ## Supplier Analysis
 
-![Supplier Analysis](screenshots/supplier_analysis.png)
+![Supplier Analysis](screenshots/Supplier_Spend.png)
+
+![Supplier Analysis](screenshots/Supplier_Delivery_Performance.png)
 
 ---
 
 ## Stock Status Summary
 
-![Stock Status](screenshots/stock_status.png)
+![Stock Status](screenshots/Stock_Status_Summary.png)
+
+---
+
+## Revenue Summary by Product
+
+![product_revinew](screenshots/Top_Products_by_Revenu.png)
 
 ---
 
