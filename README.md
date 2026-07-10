@@ -203,7 +203,7 @@ Users can filter the dashboard by:
 
 ## Inventory Value by Category
 
-![Inventory Value](screenshots/Invetory_Value_By_Category.png)
+![Inventory Value](screenshots/Invetory_Value_by_Category.png)
 
 ---
 
@@ -211,7 +211,7 @@ Users can filter the dashboard by:
 
 ![Supplier Analysis](screenshots/Supplier_Spend.png)
 
-![Supplier Analysis](screenshots/Supplier_Delivery_Performance.png)
+![Supplier Delivery_performance](screenshots/Supplier_Delivery_Performace.png)
 
 ---
 
@@ -223,7 +223,7 @@ Users can filter the dashboard by:
 
 ## Revenue Summary by Product
 
-![product_revinew](screenshots/Top_Products_by_Revenu.png)
+![product_revinew](screenshots/Top_Products_by_Reveue.png)
 
 ---
 
